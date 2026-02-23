@@ -1,0 +1,14 @@
+{
+  "name": "obsidian",
+  "version": "1.0.0",
+  "description": "Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "created": "2026-02-23T11:46:00.738045",
+  "type": "system-skill",
+  "files": [
+    "SKILL.md"
+  ],
+  "file_count": 1,
+  "source": "OpenClaw Official"
+}
